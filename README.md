@@ -1,7 +1,9 @@
 # Krypto
  Image & Audio Steganography Python Application
 # Intro :arrow_right:
-  In Helix Jump, a ball bounces up and down on a series of circular platforms held up by a pole or maze. By sliding your finger left or right, you spin a platform or pole around until you reach a break in the floor, which will allow the ball to fall to the next level or next platform. Of course, your ultimate or main goal is to reach the bottom of the tower.
+  Krypto is a software developed using python. This software allows a user to embed hidden data inside a carrier file, 
+  such as an image or audio, and later extract that data. This software is user-friendly.Least Significant Bit (LSB) 
+  method is used to embed secret information.
   Note: To run the application simply run HomePage.pyw
 
 # Technologies Used
